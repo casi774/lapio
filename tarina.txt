@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 qw å.
+=======
+qw a. S d.
+>>>>>>> Stashed changes
